@@ -8,4 +8,4 @@
 
 ![Design Preview](./design/desktop-preview.jpg)
 
-![Mobile Preview](./design/mobile-design.jpg)
+![Mobile Preview](./design/mobile-design-dark.jpg)
