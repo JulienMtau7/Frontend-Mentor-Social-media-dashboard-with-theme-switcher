@@ -1,0 +1,41 @@
+body.dark {
+    background-color: #1e202a;
+    color: white;
+}
+
+.dark header-titre h2 {
+    color: #8b97c6;
+}
+
+.dark .section01-card, .dark .card  {
+    background-color: #252a41;
+}
+
+.dark .section01-card div:nth-of-type(2) > p, .dark .section01-card > p:nth-of-type(2), .dark .card h2 {
+    color: #8b97c6;
+}
+
+
+/* LIGHT */
+
+
+body.light {
+    background-color: #ffffff;
+    color: #1e202a;
+}
+
+.light header-titre h2,.light .bouton-switch h3 {
+    color: #63687e;
+}
+
+.light input[type="checkbox"]::before{
+    background-color: white;
+}
+
+.light .section01-card, .light .card {
+    background-color: #f0f2fa;
+}
+
+.light .section01-card div:nth-of-type(2) > p, .light .section01-card > p:nth-of-type(2), .light .card h2 {
+    color: #63687e;
+}
