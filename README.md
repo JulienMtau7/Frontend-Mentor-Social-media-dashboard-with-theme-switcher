@@ -2,7 +2,7 @@
 
 ## Link Preview
 
-[https://frontend-mentor-social-media-dashboard-with-theme-sw-khibtqxdw.vercel.app/](https://frontend-mentor-social-media-dashboard-with-theme-sw-khibtqxdw.vercel.app/)
+[https://frontend-mentor-social-media-dashboard-with-theme-switcher.vercel.app/](https://frontend-mentor-social-media-dashboard-with-theme-switcher.vercel.app/)
 
 ## Design Preview
 
